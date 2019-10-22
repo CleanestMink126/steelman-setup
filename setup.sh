@@ -7,7 +7,9 @@ cp ./.bash_aliases ~/
 sudo apt install python-pip
 sudo apt install git
 sudo add-apt-repository ppa:webupd8team/atom
+sudo add-apt-repository ppa:leaeasy/dde
 sudo apt-get update
+apt-get install dde
 sudo apt-get install atom
 sudo apt-get install python3
 pip install numpy
